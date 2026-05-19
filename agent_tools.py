@@ -98,6 +98,6 @@ User question: {user_input}
 Please answer the user's question in character."""
         
         # Get final answer
-        return query(final_prompt, persona_context)
+        return query(user_input, final_prompt, chat_history)
     except Exception as e:
         return f"Sorry, I had trouble processing that. {str(e)}"

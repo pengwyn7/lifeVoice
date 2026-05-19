@@ -2,6 +2,7 @@ import os
 from openai import OpenAI
 from dotenv import load_dotenv
 from langfuse import observe, get_client
+from langchain_core.messages import HumanMessage, AIMessage
 
 # Load environment variables
 load_dotenv()
@@ -16,14 +17,20 @@ client = OpenAI(
 )
 
 @observe()
-def query(user_input, persona_prompt="You are a helpful assistant."):
+def query(user_input, persona_prompt="You are a helpful assistant.", chat_history=None):
+    messages = [{"role": "system", "content": persona_prompt}]
+    if chat_history:
+        for msg in chat_history:
+            if isinstance(msg, HumanMessage):
+                messages.append({"role": "user", "content": msg.content})
+            elif isinstance(msg, AIMessage):
+                messages.append({"role": "assistant", "content": msg.content})
+    messages.append({"role": "user", "content": user_input})
+    
     response = client.chat.completions.create(
         model="llama-3.1-8b-instant",
-        messages=[
-            {"role": "system", "content": persona_prompt},
-            {"role": "user", "content": user_input}
-        ],
-        max_tokens=300
+        messages=messages,
+        max_tokens=500
     )
     return response.choices[0].message.content
 
