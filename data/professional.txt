@@ -1,0 +1,618 @@
+
+--- Professional Identity ---
+Content from https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-020-1993-0
+Advertisement
+
+
+                            You have full access to this open access article
+
+
+6167 Accesses
+
+
+17 Citations
+
+
+5 
+                                Altmetric
+                                
+Explore all metrics 
+
+
+Across the world, local standards provide doctors with a backbone of professional attitudes that must be embodied across their practice. However, educational approaches to develop attitudes are undermined by the lack of a theoretical framework. Our research explored the ways in which the General Medical Council’s (GMC) programme of preventative educational workshops (the Duties of a Doctor programme) attempted to influence doctors’ professional attitudes and examined how persuasive communication theory can advance understandings of professionalism education.
+This qualitative study comprised 15 ethnographic observations of the GMC’s programme of preventative educational workshops at seven locations across England, as well as qualitative interviews with 55 postgraduate doctors ranging in experience from junior trainees to senior consultants. The sample was purposefully chosen to include various geographic locations, different programme facilitators and doctors, who varied by seniority. Data collection occurred between March to December 2017. Thematic analysis was undertaken inductively, with meaning flowing from the data, and deductively, guided by persuasive communication theory.
+The source (educator); the message (content); and the audience (participants) were revealed as key influences on the persuasiveness of the intervention. Educators established a high degree of credibility amongst doctors and worked to build rapport. Their message was persuasive, in that it drew on rational and emotional communicative techniques and made use of both statistical and narrative evidence. Importantly, the workshops were interactive, which allowed doctors to engage with the message and thus increased its persuasiveness.
+This study extends the literature by providing a theoretically-informed understanding of an educational intervention aimed at promoting professionalism, examining it through the lens of persuasive communication. Within the context of interactive programmes that allow doctors to discuss real life examples of professional dilemmas, educators can impact on doctors’ professional attitudes by drawing on persuasive communication techniques to enhance their credibility to demonstrate expertise, by building rapport and by making use of rational and emotional appeals.
+Across the world, doctors are required to meet professional standards set by medical regulators [1,2,3,4] that provide doctors with a backbone of professional attitudes that must be embodied across their practice. While medical professionalism has been defined in a multiplicity of ways, many authors identify a behavioural component [5,6,7] and these behaviours are understood to be underpinned by attitudes [8,9,10,11]. This is in keeping with research from social psychology, which has established attitude formation as a critical component of behaviour [12], even if the relationship between the two can at times be complex [13].
+It has been acknowledged that teaching professionalism is often challenging, with educational interventions at times being frustrated by the complexities present in the professional environment [14, 15]. Furthermore, some authors have pointed to the socially constructed, evolving nature of medical professionalism [16]. Consequently, there is flexibility needed in applying guidance to complex, emergent professional issues. However, despite agreement in the literature that professionalism should be addressed within medical education, there is widespread disagreement about how this should be done [17,18,19,20,21].
+Against this backdrop, Birden et al. [22] undertook a systematic review in order to identify a unifying theoretical model of professionalism education, but concluded that none could be found. Authors such as Martin et al. [23] have identified the strongly cognitive and/or behavioural content of many classroom-based approaches and have drawn attention to the need for further research into how professional attitudes may be more effectively taught – as they point out, the settings in which doctors practise are value-laden cultural communities, and professionalism education should therefore take account of the strong influence of these contexts on individuals’ professional attitudes.
+Given the largely atheoretical treatment of professionalism education in the literature to date, we drew on persuasive communication theory (PCT) to conceptualise how educators could influence doctors’ professional attitudes through a classroom-based educational intervention. Based on social psychological research, persuasive communication is defined as “any message that is intended to shape, reinforce or change the responses of another, or others” [24]. The premise is that certain approaches to communication are capable of changing attitudes, which are in turn linked to behaviour change [13]. There is empirical support for persuasive communication functioning in this way: within healthcare, there has been a particular focus on PCT in public health [25] and examples of where this has been shown to be effective include HIV and smoking cessation campaigns [26, 27].
+Despite established links between PCT and attitudinal change, the application of PCT within professionalism education in medicine has remained absent from the literature. Consequently, we chose PCT as an established model for understanding the links between communication, attitude formation or attitude change and behavioural change amongst doctors. Importantly, and as described below, PCT provides a framework for systematically analysing several key components of communicative acts: the source of the communication; the message; and the audience.
+The source (or educator) is important in changing attitudes, particularly by establishing their credibility [28] which is an audience’s subjective perception of the source’s expertise (‘is the educator a reputable source of knowledge or not?’) and trustworthiness (‘is the educator open and honest? Are they presenting a biased perspective?’). Source similarity is also key to persuasion, for example, holding similar memberships (e.g. belonging to the same organisation) and/or similar attitudes and beliefs.
+The message (the content) includes the content of the intervention but also refers to specific features of delivery known to influence attitudes. There are two main types of appeal: rational and emotional. Firstly, rational appeals are those that present a logical argument supported with evidence. Quantitative evidence (e.g. statistics) tends to engage cognitive processing and is reported to influence attitudes, whilst qualitative evidence (e.g. narrative), is processed affectively and has a stronger impact on behavioural intention [29, 30]. Secondly, emotional appeals provoke affective responses, the use of fear or guilt to cause attitude change have been the most researched [12]. Appeals that strongly influence attitude change are those with a clear, convincing message. Emotional appeals that focus too heavily on fear can generate anxiety which undermines attitudinal change [31].
+The audience (or participants) is the third salient aspect of PCT - both the educator and the message are evaluated by the audience [12]. ‘Message discrepancy’ describes a misalignment between the attitudes or knowledge currently held by an audience compared with the message the educator is trying to convey. Attitudinal change tends to happen when there is a moderate level of message discrepancy – change may be less likely when there is very little, or a great deal of, discrepancy [1, 32, 33]. Furthermore, active involvement with material that has been tailored to the audience and which is therefore personally relevant has also been shown to be persuasive [34].
+This study set out to explore how to teach professionalism by applying a theoretical model from social psychology: PCT.
+The aim of the study was to use PCT to explore the utility of persuasive communication in shaping professional attitudes during a programme of preventative educational workshops for qualified doctors. Specifically, our overarching research question was: how can PCT deepen our understanding of how to teach professionalism and shape professional attitudes?
+Our objectives were:
+
+To identify the approaches to communication employed by workshop facilitators (the source) on the GMC’s Duties of a Doctor workshops;
+To analyse the features of the workshop content that contributed to the persuasiveness of the message;
+To explore qualitatively the ways in which the educational intervention had been successful in shaping doctors’ (i.e. the participants’) attitudes to professionalism;
+To make research-informed recommendations as to how classroom-based professionalism interventions can draw on persuasive communication techniques in order to enhance their effectiveness.
+In recent years, medical regulators have expressed concern about the potential impact on doctors’ ability to maintain high professionalism standards throughout their careers [35]. In the UK, the General Medical Council’s (GMC) Duties of a Doctor preventative education programme is intended to influence doctors’ behaviours by providing guidance on the regulator’s standards and how they should be applied to professional conduct in a UK context, particularly in novel or ambiguous situations [36]. The programme consists of an educational outreach programme run at hospitals across England. The programme typically consists of five or six half-day workshops run over the course of 4 to 6 months. The content is tailored to the requirements of the specific cohort of doctors attending, but educators draw on a bank of standardised resources to ensure a degree of consistency in their teaching materials. Workshops are facilitated by members of the GMC’s Regional Liaison Service, known as Regional Liaison Advisors.
+In our research, PCT informed the analysis of interview and observational data drawn from the General Medical Council’s (GMC) programme of preventative educational workshops (Duties of a Doctor programme). We drew on the three key components in PCT: ‘the message’ that is the content of the educational intervention; ‘the source’ - in our case the educator; and ‘the audience’ i.e. the programme participants [12]. According to PCT, each of these three components comprises several constituent elements (see Fig. 1), which are explored in more detail below.
+
+Three key components of persuasive communication theory and their constituent elements
+We conducted a qualitative, multi-methods study using detailed ethnographic observations of educator and participant interactions during the regulator’s professionalism programme as well as focus group interviews with workshop participants. Ethnography is an exploratory approach to research that typically involves analysis of unstructured data – data that is uncoded at the point of collection - and facilitates detailed observation of, and insights into, the cultures, practices and perspectives of a community [37]. Thus, it allowed us to explore the complex links between communication, attitudes and behaviour in the context of professionalism workshops for doctors. Ethics approval was granted by the University College London Ethics Committee (ref: 5490/001).
+The workshops observed were selected purposively, focusing on a maximum variation sample in order to ensure inclusion of workshop topics and participant types (foundation doctors, staff grade doctors, consultants and general practitioners), including sampling from sessions at the beginning, middle and end of programmes. This approach also resulted in broad coverage of geographical regions (seven of the regulator’s thirteen English regions) and workshop facilitators (seven of the thirteen workshop educators),(Table 1). Programmes were excluded if they were outside the research timeline. Observations ran from March to December 2017, and researchers observed fifteen individual workshops at seven different hospital sites across the UK. In keeping with an ethnographic approach, which values the collection and interpretation of unstructured data, observation sheets were open-ended, with researchers making contemporaneous notes. A minimum of two members of the research team attended a sample of the workshops resulting in multiple sets of notes for each workshop observed.
+
+Ten focus group interviews were conducted with 55 doctors from different locations, with interviewers following a semi-structured interview guide. The interview durations ranged from 34 to 59 min (mean duration 39 min) and were audio-recorded and professionally transcribed prior to analysis.
+The observation and interview data were imported into QSR International’s NVivo (Version 11) and a coding framework was developed inductively, based on open coding of the data, and deductively, drawing upon PCT [38]. Members of the research team initially undertook independent coding of a small sample of observation data and interview transcripts. Researchers then met to discuss the coding frameworks. Amendments were made and further rounds of coding and discussion were undertaken until the frameworks were agreed. The remainder of the data were then coded by the researchers (Fig. 2).
+
+Flow diagram of the research process
+The section that follows presents the analysis of the observation and interview data. Observation data covered the full range of the GMC’s professionalism programme topics, type of delegate (consultant, trainee and speciality doctors) and stage of the programme (beginning, middle and end) (Table 1). Alongside the observations, 55 doctors drawn from all seven regions took part in focus group interviews between April and July 2017 (Table 2).
+
+Findings from our analysis of the data are presented under the three main themes of the coding framework: the source (educator); the message (content); and the audience (participants).
+Credibility was demonstrated principally through educator expertise. Educators showed a great deal of knowledge about the GMC’s professionalism guidance, frequently referring to specific paragraphs throughout the sessions. Educators also demonstrated their knowledge of the current context in which doctors are working and bolstered their breadth of real-world expertise by providing examples drawn from other hospitals across the region.
+I think the person who leads [the workshop] and the way they do it will probably make a big difference….[the educator] was personable, he was relaxed, he was interesting and he was interested, I would say, and he knew his bits and pieces…I thought he was good, but I think the others did too, from talking to them...
+Consultant-Senior trainee/UK graduate/Site 1 (our emphasis)
+We observed educators attempting to establish their trustworthiness with the doctors by establishing source similarity. This was often done by emphasising certain likenesses with the doctors, despite not being doctors themselves. For example, one educator provided examples about their experiences “on the front line” in a different public-facing profession (Observation, Site 1). Another educator had experience of working in the hospital where the course was held and was able to demonstrate knowledge of the group’s working context (Observation, Site 4).
+To broker a lack of source credibility, educators clearly articulated the clinical expertise of the doctors (audience) in the group by acknowledging their status. For example, educators were observed reassuring their groups “I’ll rely on you for clinical knowledge” (Observation, Site 7) maintaining a distinction between educators’ own domain of expertise (the professionalism guidance) and that of the doctors.
+Trustworthiness was also developed through relationship-building and personal rapport with the participants. For example, when describing a case where a doctor got into trouble, one educator said “I don’t want anything like that to happen to my doctors” (Observation, Site 1). Another educator referred to past cohorts throughout as “one of my” doctors or “some of my” doctors (Observation, Site 3).
+Trust was further enhanced by educators acknowledging and permitting discussion of doctors’ negative perceptions of the regulator without becoming defensive, and the openness of educators to discussion and debate in general also impacted positively on participants’ perceptions of their trustworthiness:
+P1: I think [the educator] has got good people skills and she’s able to communicate and she doesn’t talk at you; she talks to you. She’s a great listener…There’s a whole personality. She’s the right person for doing the job…and when I throw arguments at her, she was not becoming defensive.
+P2: I just feel like for me she really sold the GMC to me! To me, she comes across as very genuine, very trustworthy.
+P1: Foundation doctor/UK graduate/Site 3.
+P2: Foundation doctor/UK graduate/Site 3.
+The educators were therefore a key component of the intervention.
+Analysis revealed that four key elements of the PCT ‘message’ component were influential in changing professional attitudes: the nature of the appeal (rational and emotional); the use of evidence; an emphasis on reducing risk; and guidance as to how to reduce risk.
+Qualitative and quantitative evidence was presented in order to make rational appeals to doctors about their professionalism. Qualitative results from a survey, in which patients were asked about the qualities they like to see in a doctor, were presented in the form of a word cloud that highlighted the importance placed on listening and communication. Case law was also used in making narrative, rational appeals. For example, the Montgomery vs. Lanarkshire medico-legal case [39] was used to illustrate points made about specific areas of guidance.
+The educators referred to relevant sections of the guidance throughout the sessions observed. Although occasionally a participant questioned some guidance, for the most part the guidance was apparently accepted, and was treated as the best source of advice for doctors when in a difficult situation. For example, one educator told the group that it is “helpful” to refer to the guidance (Observation, Site 1). Another said “I honestly do believe it can be supportive for you” (Observation, Site 5). The perceived utility of having clear, rational guidance on professional behaviours was echoed by doctors:
+It’s the standard advice from the regulator, so if you follow it, it can’t be wrong. And it’s good to have that framework. I think it is so much more clearly written now than it was.
+GP-Consultants/UK graduate/Site 6.
+Quantitative evidence was also used to articulate rational appeals. Several educators showed slides containing results from the National Training Survey [40], with the results drawn specifically from the Trust or hospital where the session took place in order to demonstrate that doctors’ professional attitudes needed to change. Quantitative evidence also included data about the regulator’s handling of complaints. This was used to make the point that the regulator’s response to complaints was proportionate, and that only a small number of doctors - those whose behaviour clearly contradicts the published guidance - get into serious professional difficulty:
+And seeing like the breakdown of the yearly cases, so many have been brought to the GMC, and this many were thrown out, and that many went through to initial hearing, and that many... So just a sort of understanding of that process as well as, if you got a referral to the GMC, what happens. It’s not the case that everything goes straight to the Tribunal, because that is what you take home, fitness to practice and the stresses it involves.
+Foundation doctor/UK graduate/Site 3.
+This was used to make the rational argument that adhering to the regulator’s professional guidance is protective, however reference to complaints and serious professional consequences is likely to have elicited an emotional response amongst doctors as well.
+The most prevalent emotional appeal was linked to fear, which was often framed in terms of risk to the doctors from behaving unprofessionally, but also included acknowledging other fears of doctors when faced with professional dilemmas. In a session covering raising concerns, an educator asked the group what the barriers to raising concerns might be. Suggestions from the group included a lack of response from the Trust, and detrimental outcomes for the doctor. The educator showed a word cloud about what doctors have said about raising concerns; these included “career-ending,” “fear,” “culture,” “seen as trouble-maker” and “no protection” (Observation, Site 5). The doctors’ potential worries about raising concerns were thereby acknowledged and accepted by the educator.
+There were also emotional appeals relating to the doctors’ wellbeing. In the context of complaints relating to doctors’ health, an educator told their group that “you tend to think you’re superhuman” (Observation, Site 4). The same educator also acknowledged the increased risk of suicide that doctors face when being investigated by the regulator, adding that “You’re at a higher risk anyway aren’t you”. In both instances the educator was open about the pressures that doctors face, with this reference to emotion appealing to the group to emphasise the ‘human’ side of the regulator. It was also used to reiterate the point that adherence to professional guidance could reduce risk, and therefore fear.
+Educators also provided practical suggestions as to how participants could mitigate risk. For example, one educator recommended keeping clear records for doctors’ own protection: “things that will really protect you: document and seek advice from the GMC” (Observation, Site 7).
+The educators also spent time raising awareness of various resources that could be useful to the doctors. These included:
+
+Flowcharts of processes to follow e.g. when deciding whether confidentiality needs to be breached
+Mobile device applications
+Online resources provided by the regulator
+This was done by describing the resources and the benefits of using them, and by showing images and screenshots of the resources on their slides.
+Observations revealed that the content of the sessions was highly relevant to the participants and was tailored according to their needs. Participants were engaged actively, using questioning and case-based discussion with peers, with educators giving participants the opportunity to contribute to plenary discussions and debriefs.
+Message discrepancy - misalignment between the attitudes or knowledge currently held by participants compared with the educator’s message - appeared to be influential in changing knowledge and attitudes. For example, participants had variable understandings about the GMC’s professionalism guidance. The programme impacted mostly on international medical graduates and senior doctors for whom the course offered an opportunity to learn about current professionalism guidance as well as the UK context. Foundation doctors who had recently completed undergraduate education and taken the Situational Judgement Test (SJT) had more contemporary knowledge of regulatory guidance and thus less misalignment.
+A lot of it we did have to revise and go through before the SJT and as part of medical school as well…it’s just reinforcing information.
+Foundation doctor/UK graduate/Site 3.
+High levels of message discrepancy were also demonstrated by participants in relation to how the regulator dealt with complaints. Most participants displayed negative attitudes about the regulator’s handling of complaints, and through engagement with the programme participants’ attitudes shifted to become more positive:
+P1: Nowadays, I feel that they’re more transparent and approachable. Earlier, GMC means something like a disciplinary body, where they organise these workshops and they are coming to us, basically.
+P2: I agree with my colleague. In the past, it looks like just… the GMC is a stick in the hand behind my back and not supporting, and a lot of information… GMC was all, stay away from the GMC, don’t do anything, otherwise you will be reported to GMC and the GMC will deregister you, your livelihood can be finished off. And after taking that… a bit more clear on how the GMC is looking towards doctors, what they expect from the doctors, so more of a… yes, patients is the main aim, as well as a human factor also, GMC also considers the human factor.
+P1: Specialty doctor/International Medical Graduate/Site 2.
+P2: Specialty doctor/International Medical Graduate/Site 2
+I think my attitude is more favourable towards the GMC, particularly because [the educator] explained to us the very small proportion of cases that actually lead to major disciplinary action or dismissal or charges, and that most of what they do is, kind of, very supportive and, you know, they try to help doctors in difficulty or people who’ve had negative experiences. So, I think it’s improved my impression of the GMC.
+Consultant-senior trainee /UK graduate/Site 1.
+Thus, the programme appeared to lead to improved attitudes towards the regulator and their professionalism guidance.
+A significant finding of our research was that, viewed through the lens of PCT, attributes of the educator were seen to be a key mechanism for influencing participants’ professional attitudes. These were principally: source credibility and trustworthiness. The educators’ credibility comprised expertise - demonstrated by knowledge of the professional guidance and the participants’ clinical context - and trustworthiness. Trust was established by: creating a space where participants were able to engage in debate and articulate their negative attitudes; deliberately establishing source similarity, emphasising shared experiences and real-world understanding; and using skilled communication techniques to develop rapport with participants.
+Another significant finding was that the message directed to participants was seen to exhibit important attributes of persuasiveness: the nature of the appeal (rational and emotional); the use of evidence; an emphasis on reducing risk; and guidance as to how to reduce risk. Rational appeals included using qualitative and quantitative data, using logical argument and presenting data regarding the outcomes of complaints which framed the regulator’s response as proportionate. There were also emotional appeals; fear was sometimes used as a mechanism to promote compliance with published professional guidance. This message emphasised the GMC’s role in protecting doctors, and how by adhering to professional guidance, participants were at lower risk of adverse outcomes.
+Finally, another important mechanism that influenced participants’ attitudes was message discrepancy. Following the workshops, participants showed a greater awareness and appreciation of the GMC’s role and their professional guidance, and some of those whose attitude was previously negative articulated a more positive view. Interactivity promoted active involvement of doctors with the teaching material and ensured that real world experiences were considered.
+In the literature, it has been argued that class-room based approaches to teaching professionalism are misaligned with the nature of professional practice. Authors such as Gill & Griffin [16], Holtman [41] and Buyx et al. [42] highlight the socio-cultural nature of learning to be a professional and, consequently, calls for role modelling and other workplace-based approaches to play a dominant role in professionalism education are common [43, 44]. However, the real-world clinical context presents challenges to the implementation of professionalism in practice [45] and so there is an argument for appropriate classroom-based approaches to run alongside workplace experience in order to ensure that the correct messages, such as updated professionalism guidelines, are received by clinicians. As Boud et al. [46] observe, while experience is often taken to be the foundation of professional learning, it may not always lead to it.
+Within the medical professionalism literature there are calls to develop better informed classroom-based approaches to teaching professionalism [47,48,49] and to develop educational approaches that take account of professional experience [50]. Our study addresses this gap by means of an examination of a classroom-based professionalism education intervention, explored through the lens of PCT.
+Our study revealed that the way educators conduct the educational intervention is important. Pedagogically, the interactive approaches observed within the programme served the purpose of surfacing what Wynia et al (p. 714) [51] describe as doctors’ normative beliefs about professionalism, exposing these to public scrutiny and debate. This aligns with Karnieli-Miller et al.’s [52] finding that interpersonal interactions with faculty and peers are important influences in shaping the professional attitudes of learners, as well as allowing doctors to explore the application of ‘practical wisdom’ that Hilton and Southgate (p. 267) [53] argue is at the heart of medical professionalism. In a field in which there is room for improvement in teaching [54], and in which there is often disagreement about how professionalism might best be taught [55], our research suggests that classroom-based approaches, understood as persuasive communication interactions, can provide a valid, effective way to influence doctors’ professional attitudes.
+Since it was first proposed by Hovland and colleagues as a way of understanding attitudinal change [56] PCT has been widely used as a theoretical framework underpinning attitudinal research in the domains of marketing and politics [12] - fields that are intuitively linked with the act of persuasion. To a lesser extent, PCT has been used to understand public health interventions, for example in HIV [27] and smoking-related campaigns [26]. However, despite Hovland’s description of persuasive communication as a learning theory [56], the use of PCT as an underpinning theoretical framework in education research has been extremely limited, being largely confined to a small number of studies exploring changes in schoolteacher and student attitudes to mathematics and science education [57, 58, 59]. As previously described, there is no literature evaluating the utility of PCT for conducting attitudinal research in professionalism education in medicine.
+According to Shrigley and Koballa [60] the largely non-theoretical treatment of attitudinal research in education is the principal reason for the apparent lack of progress within the discipline over a 20 year period. Similarly, researchers in social psychology have described non-theoretically driven attitudinal research as being ‘chaotic and confusing’ (ibid., p. 19). It is therefore important that research into changing professional attitudes in medical education does not fall into the same trap. Rather, researchers should adopt and articulate a clear conceptual framework that can function as a theoretical net to draw together observations that would otherwise be disorganised and difficult to interpret. In our view, PCT offers a compelling theoretical framework for doing so.
+A particular strength of the research undertaken for this study was the robust nature of the methodology, which addressed key elements of quality and dependability in qualitative research [61]. Thus, our research methods comprised: a multi-methods exploration of the phenomenon; maximum variation sampling; multiple iterations of coding, discussion between researchers and re-coding; and the use of a conceptual framework that afforded the ability to explore persuasive communicative acts theoretically. As such, it offered a lens through which to view the tensions and important interrelationships between different elements of the persuasive communication process. A limitation of our study was that our conclusions about the effectiveness of the approach in terms of attitudinal change had to be inferred from the data. A further limitation was that the sample population comprised doctors who had volunteered to participate in the GMC’s Duties of a Doctor programme, and thus were arguably pre-disposed to value, and be persuaded by, the educators’ input.
+This study has extended the medical education literature by providing a theoretical understanding of a professionalism education programme using the lens of persuasive communication. In doing so, we found that a classroom-based intervention that runs alongside and acknowledges professional experience can have a positive impact on doctors’ professional attitudes if it adheres to known features of persuasive communication. Persuasive communication theory has not previously been widely adopted within the field of professionalism education research in medicine, despite its core premise linking communication to attitudinal change. This study provides an insightful appreciation of the mechanisms of a national professionalism education intervention so that educationalists can look to maximise the effectiveness of local professionalism education programmes.
+The data underpinning this study are not available as consent for this has not been granted by participants.
+General Medical Council
+General practitioner
+Persuasive communication theory
+Situational judgement test
+General Medical Council. Good Medical Practice. Manchester: General Medical Council; 2013. ISBN: 978-0-901458-73-5.
+American Board of Medical Specialties. Standards for the ABMS program for maintenance of certification (MOC); 2014. https://www.abms.org/media/1109/standards-for-the-abms-program-for-moc-final.pdf. Accessed Sept 2019.
+Good Medical Practice - a code of conduct for doctors in Australia. https://www.medicalboard.gov.au/codes-guidelines-policies/code-of-conduct.aspx. Accessed Sept 2019.
+Frank JR, Snell L, Sherbino J. Can MEDS 2015 Physician Competency Framework. Ottawa: Royal College of Physicians and Surgeons of Canada; 2015.
+Hodges BD, Ginsburg S, Cruess R, Cruess S, Delport R, Hafferty F, et al. Assessment of professionalism: recommendations from the Ottawa 2010 conference. Med Teach. 2011;33(5):354–63.
+Article 
+    
+                    Google Scholar 
+                
+Martimianakis MA, Maniate JM, Hodges BD. Sociological interpretations of professionalism. Med Educ. 2009;43(9):829–37.
+Article 
+    
+                    Google Scholar 
+                
+Goldie J. Assessment of professionalism: A consolidation of current thinking. Med Teach. 2013;35(2):e952–6.
+Article 
+    
+                    Google Scholar 
+                
+Kirk LM. Professionalism in medicine: definitions and considerations for teaching. Proc (Baylor Univ Med Cent). 2007;20(1):13–6.
+Article 
+    
+                    Google Scholar 
+                
+Lee AG, Beaver HA, Boldt HC, Olson R, Oetting TA, Abramoff M, et al. Teaching and assessing professionalism in ophthalmology residency training programs. Surv Ophthalmol. 2007;52(3):300–14.
+Article 
+    
+                    Google Scholar 
+                
+Lucey C, Souba W. Perspective: the problem with the problem of professionalism. Acad Med. 2010;85(6):1018–24.
+Article 
+    
+                    Google Scholar 
+                
+MacKenzie CR. Professionalism and medicine. HSS J. 2007;3(2):222–7.
+Article 
+    
+                    Google Scholar 
+                
+Stiff JB, Mongeau PA. Persuasive communication. 3rd ed. New York: Guilford Press; 2016..
+
+                    Google Scholar 
+                
+Ajzen I. The theory of planned behavior. Organ Behav Hum Decis Process. 1991;50(2):179–211.
+Article 
+    
+                    Google Scholar 
+                
+Hafferty FW, Franks R. The hidden curriculum, ethics teaching, and the structure of medical education. Acad Med. 1994;69(11):861–71.
+Article 
+    
+                    Google Scholar 
+                
+Maheux B, Béland F. Students' perceptions of values emphasized in three medical schools. J Med Educ. 1986;61(4):308–16.
+
+                    Google Scholar 
+                
+Gill D, Griffin A. Good Medical Practice: what are we trying to say? Textual analysis using tag clouds. Med Educ. 2010;44(3):316–22.
+Article 
+    
+                    Google Scholar 
+                
+Guraya S, Guraya S, Almaramhy H. The legacy of teaching medical professionalism for promoting professional Practice: A systematic review. Biomed Pharmacol J. 2016;9(2):809–17.
+Article 
+    
+                    Google Scholar 
+                
+El-Eraky MMM, H.F. Professionalism in medical education. Adv Health Prof Educ. 2015;1(1):37–40.
+
+                    Google Scholar 
+                
+Bernabeo EC, Holmboe ES, Ross K, Chesluk B, Ginsburg S. The utility of vignettes to stimulate reflection on professionalism: theory and practice. Adv Health Sci Educ. 2013;18(3):463–84.
+Article 
+    
+                    Google Scholar 
+                
+Green M, Zick A, Makoul G. Defining professionalism from the perspective of patients, physicians, and nurses. Acad Med. 2009;84(5):566–73.
+Article 
+    
+                    Google Scholar 
+                
+Wagner P, Hendrich J, Moseley G, Hudson V. Defining medical professionalism: a qualitative study. Med Educ. 2007;41(3):288–94.
+Article 
+    
+                    Google Scholar 
+                
+Birden H, Glass N, Wilson I, Harrison M, Usherwood T, Nass D. Defining professionalism in medical education: A systematic review. Med Teach. 2014;36(1):47–61.
+Article 
+    
+                    Google Scholar 
+                
+Martin J, Lloyd M, Singh S. Professional attitudes: can they be taught and assessed in medical education? Clin Med (Lond). 2002;2(3):217–23.
+Article 
+    
+                    Google Scholar 
+                
+Miller GR. On being persuaded: some basic distinctions. In: Roloff ME, Miller GR, editors. Persuasion: new directions in theory and research. Beverly Hills: Sage; 1980. p. 11–28.
+Rossi J, Yudell M. The use of persuasion in public health communication: an ethical critique. Public Health Ethics. 2012;5(2):192–205.
+Article 
+    
+                    Google Scholar 
+                
+Friend K, Levy DT. Reductions in smoking prevalence and cigarette consumption associated with mass-media campaigns. Health Educ Res. 2002;17(1):85–98.
+Article 
+    
+                    Google Scholar 
+                
+Bakker AB. Persuasive communication about AIDS prevention: need for cognition determines the impact of message format. AIDS Educ Prev. 1999;11(2):150–62.
+
+                    Google Scholar 
+                
+Pornpitakpan C. The persuasiveness of source credibility: A critical review of five decades' evidence. J Appl Soc Psychol. 2004;34(2):243–81.
+Article 
+    
+                    Google Scholar 
+                
+Kopfman JE, Smith SW, Ah Yun JK, Hodges A. Affective and cognitive reactions to narrative versus statistical evidence organ donation messages, J Appl Commun Res. 1998;26(3):279–300.
+Article 
+    
+                    Google Scholar 
+                
+Zebregs S, van den Putte B, de Graaf A, Lammers J, Neijens P. The effects of narrative versus non-narrative information in school health education about alcohol drinking for low educated adolescents. BMC Public Health. 2015;15(1):1085.
+Article 
+    
+                    Google Scholar 
+                
+Witte K, Allen M. A meta-analysis of fear appeals: implications for effective public health campaigns. Health Educ Behav. 2000;27(5):591–615.
+Article 
+    
+                    Google Scholar 
+                
+Sherif CW, Nebergall RE, Sherif M. In: Sherif CW, Sherif M, et al., editors. Attitude and attitude change. The social judgment-involvement approach. Philadelphia and London: W.B. Saunders Co.; 1965. p. xxi. 264.
+
+                    Google Scholar 
+                
+Whittaker JO. Resolution of the communication discrepancy issue in attitude change. In: Sherif CW, Sherif M, editors. Attitude, ego-involvement, and change. New York: Wiley; 1967. p. 159–77.
+
+                    Google Scholar 
+                
+Hullett C, Boster F. Matching messages to the values underlying value-expressive and social-adjustive attitudes: reconciling an old theory with a contemporary measurement approach. Commun Monogr. 2001;68(2):133–53.
+Article 
+    
+                    Google Scholar 
+                
+General Medical Council. The state of medical education and practice in the UK report, 2016. Manchester, General Medical Council; 2016. https://www.gmc-uk.org/-/media/documents/SOMEP_2016_Full_Report_Lo_Res.pdf_68139324.pdf. Accessed Sept 2019.
+Duties of a Doctor workshops.https://www.gmc-uk.org/about/what-we-do-and-why/learning-and-support/workshops-for-doctors/duties-of-a-doctor-workshops. Accessed Sept 2019.
+Reeves S, Kuper A, Hodges BD. Qualitative research methodologies: ethnography. BMJ. 2008;337:a1020.
+Article 
+    
+                    Google Scholar 
+                
+Miles MB, Huberman AM. Qualitative data analysis: an expanded sourcebook. 2nd edn. Thousand Oaks: Sage; 1994.
+12kbw.co.uk. MONTGOMERY (appellant) v LANARKSHIRE HEALTH BOARD (respondent) & GENERAL MEDICAL COUNCIL (intervener) [2015] UKSC 11 | case library | 12 King's bench walkEdited by Library C. 12 King's Bench Walk; 2015.
+
+                    Google Scholar 
+                
+General Medical Council. Training environments 2017: Key findings from the National Training Surveys. Manchester: General Medical Council; 2017.
+Holtman MC. A theoretical sketch of medical professionalism as a normative complex. Adv Health Sci Educ Theory Pract. 2008;13(2):233–45.
+Article 
+    
+                    Google Scholar 
+                
+Buyx AM, Maxwell B, Schöne-Seifert B. Challenges of educating for medical professionalism: who should step up to the line? Med Educ. 2008;42(8):758–64.
+Article 
+    
+                    Google Scholar 
+                
+Skeff KM, Mutha S. Role models--guiding the future of medicine. N Engl J Med. 1998;339(27):2015–7.
+Article 
+    
+                    Google Scholar 
+                
+Elzubeir MA, Rizk DE. Identifying characteristics that students, interns and residents look for in their role models. Med Educ. 2001;35(3):272–7.
+Article 
+    
+                    Google Scholar 
+                
+Mostaghimi A, Olszewski AE, Bell SK, Roberts DH, Crotty BH. Erosion of digital professionalism during medical Students' Core clinical clerkships. JMIR Med Educ. 2017;3(1):e9.
+Article 
+    
+                    Google Scholar 
+                
+Boud D, Cohen R, Walker D. Introduction: understanding learning from experience. In: Boud D, Cohen R, Walker D, editors. Using experience for learning. Buckingham: SRHE; 1993. p. 1–18.
+
+                    Google Scholar 
+                
+Kurtz SM, Laidlaw T, Makoul G, Schnabl G. Medical education initiatives in communication skills. Cancer Prev Contr. 1999;3(1):37–45.
+
+                    Google Scholar 
+                
+Fox E, Arnold RM, Brody B. Medical ethics education: past, present, and future. Acad Med. 1995;70(9):761–9.
+
+                    Google Scholar 
+                
+Calman K, Downie R. Why arts courses for medical curricula. Lancet. 1996;347(9014):1499–500.
+Article 
+    
+                    Google Scholar 
+                
+Wrenn J, Wrenn B. Enhancing learning by integrating theory and practice. Int J Teach Learn Higher Educ. 2009;21(2):258–65.
+Wynia MK, Papadakis MA, Sullivan WM, Hafferty FW. More than a list of values and desired behaviors: a foundational understanding of medical professionalism. Acad Med. 2014;89(5):712–4.
+Article 
+    
+                    Google Scholar 
+                
+Karnieli-Miller O, Vu TR, Frankel RM, Holtman MC, Clyman SG, Hui SL, et al. Which experiences in the hidden curriculum teach students about professionalism? Acad Med. 2011;86(3):369–77.
+Article 
+    
+                    Google Scholar 
+                
+Hilton S, Southgate L. Professionalism in medical education. Teach Teach Educ. 2007;23(3):265–79.
+Article 
+    
+                    Google Scholar 
+                
+Bryden P, Ginsburg S, Kurabi B, Ahmed N. Professing professionalism: are we our own worst enemy? Faculty members' experiences of teaching and evaluating professionalism in medical education at one school. Acad Med. 2010;85(6):1025–34.
+Article 
+    
+                    Google Scholar 
+                
+Riley S, Kumar N. Teaching medical professionalism. Clin Med. 2012;12(1):9–11.
+Article 
+    
+                    Google Scholar 
+                
+Hovland CI, Janis IL, Kelley HH. Communication and persuasion; psychological studies of opinion change. New Haven: Yale University Press; 1953.
+
+                    Google Scholar 
+                
+Shrigley RL. The persuasive communication model: A theoretical approach for attitude change in science education. J Res Sci Teach. 1978;15(5):335–41.
+Article 
+    
+                    Google Scholar 
+                
+Shrigley RL. Persuasive communication: A theoretical model for changing the attitude of preservice elementary teachers toward metric conversion. J Res Sci Teach. 1982;19(4):311–20.
+Article 
+    
+                    Google Scholar 
+                
+Steiner RL. Induced cognitive dissonance as a means of effecting changes in school-related attitudes. J Res Sci Teach. 1980;17(1):39–45.
+Article 
+    
+                    Google Scholar 
+                
+Shrigley RL, Koballa TR JR. A decade of attitude research based on Hovland's learning theory Model. Sci Ed. 1992;76:17–42. https://doi.org/10.1002/sce.3730760103.
+Article 
+    
+                    Google Scholar 
+                
+Noble H, Smith J. Issues of validity and reliability in qualitative research. Evid Based Nurs. 2015;18(2):34–5.
+Article 
+    
+                    Google Scholar 
+                
+Download references
+We are grateful to the GMC educators and participants who allowed us to observe their sessions and who participated in interviews. We are also grateful to Dr. Yalda Afzali-Crampton, who assisted with the analysis of the observation data, and to colleagues in the UCL Medical School Research Department of Medical Education (RDME).
+This study was part of a larger research project commissioned by the GMC. The GMC funded the Research Department of Medical Education to independently research this area and to design, gather, analyse and interpret all materials.
+Research Department of Medical Education, UCL Medical School, Royal Free Hospital, Room GF/664, London, NW3 2PF, UK
+Michael Page, Paul Crampton, Rowena Viney & Antonia Rich
+Hull York Medical School, York University, John Hughlings Jackson Building, University Rd, Heslington, York, YO10 5DD, UK
+Paul Crampton
+Research Department of Medical Education, UCL Medical School (UCLMS), The Directorate, 74 Huntley Street, London, WC1E 6AU, UK
+Ann Griffin
+Search author on:PubMed Google Scholar
+Search author on:PubMed Google Scholar
+Search author on:PubMed Google Scholar
+Search author on:PubMed Google Scholar
+Search author on:PubMed Google Scholar
+AG, RV, AR and MP contributed to the design of the study and data collection. All authors contributed to the analysis. MP wrote the first draft of the manuscript, PC and AG assisted with significant revisions, and all authors made significant contributions to subsequent drafts of the work. All authors reviewed and approved the final manuscript.
+Correspondence to
+                Ann Griffin.
+Ethics approval was granted by the University College London Ethics Committee (ref: 5490/001). All participants gave their consent to participate. Written consent was obtained from participants.
+Participants gave their consent for publication.
+Paul Crampton is on the editorial board of BMC Medical Education.
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Reprints and permissions
+Page, M., Crampton, P., Viney, R. et al. Teaching medical professionalism: a qualitative exploration of persuasive communication as an educational strategy.
+                    BMC Med Educ 20, 74 (2020). https://doi.org/10.1186/s12909-020-1993-0
+Download citation
+Received: 11 October 2019
+Accepted: 03 March 2020
+Published: 17 March 2020
+Version of record: 17 March 2020
+DOI: https://doi.org/10.1186/s12909-020-1993-0
+Anyone you share the following link with will be able to read this content:
+Sorry, a shareable link is not currently available for this article.
+
+
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        
+Advertisement
+
+175.158.242.134
+
+Not affiliated
+© 2026 Springer Nature
+
+--- Professional Identity ---
+Content from https://pmc.ncbi.nlm.nih.gov/articles/PMC6373559/
+
+
+--- Interview Tips ---
+Content from https://builtin.com/articles/how-to-answer-interview-questions
+
+                    It’s easy to spiral when you’re asked a hardball question in a job interview. These hiring experts share tips on how to get back on track after a tough interview question.
+                
+Even the most experienced professionals can get tripped up by tough job interview questions. That’s why we’ve compiled a list of the most common and challenging interview questions — and sample responses for how you can answer them.
+ 
+Interviewers may ask tough interview questions to go beyond your resume and get a deeper understanding of your skill set and professional background. Here are some questions you might be asked along with sample answers, so you can set yourself apart as a top candidate.
+ 
+This question often comes up in the early rounds of the interview process. While it’s intentionally open-ended, your answer should still focus on your professional experiences and skills that are most relevant to the role you’re applying for. Be sure to note a few strengths and accomplishments that confirm your fit for the role. 
+Example: “After earning my degree, I worked for two years as an associate product manager before being promoted to my current role as a product manager. During this time, I have overseen 12 successful software releases over the past three years while leading collaborative efforts between the product, engineering and UX design teams. On top of this, I’ve worked to cut the product development process in half, and I’m eager to achieve this same kind of efficiency at your company.”  
+ 
+Interviewers ask this question as a way to see whether you can demonstrate active listening when receiving feedback. This means not only acknowledging constructive criticism, but responding to it by making an effort to improve your skill set based on this feedback.  
+Example: “While I excel at working independently, I’ve been told this working style can result in me being disconnected and hard to work with during team projects. In response, I’ve made sure to ask my peers more questions and share more of my thoughts during team meetings. I’ve also scheduled one-on-ones with each of my teammates to build stronger relationships moving forward.”   
+ 
+Because not everyone has had a crucial weakness pointed out to them before, this question is meant to test a candidate’s self-awareness. It’s best to provide an honest assessment while outlining actions you’ve taken to improve upon any key flaws. This approach shows you’re willing to hold yourself accountable and take steps to mature as a professional.   
+“Showing that you have a growth mindset is more beneficial to an interviewer than just listing your weaknesses,”  Sophie Symonds, senior recruiter at Springboard, told Built In. “Talking about opportunities for improvement can show a company that you’re a self-reflective person with a growth mindset.”
+Example: “I used to sometimes struggle with accepting and implementing feedback. To get better at this, I’ve committed to practicing active listening techniques and understanding that my manager’s comments are about improving my writing, not questioning my abilities. I’ve also requested to meet at least once a week with my manager to discuss any questions I have and talk through any concerns to avoid misunderstandings and make sure we’re on the same page.” 
+ 
+Employers ask this question to get a better sense of what matters to a job candidate. Daniel Miller, head of product at RecruiterPM and co-founder of Empowered Staffing, said that bringing concrete data points to the conversation is crucial in showing prospective employers the value someone brings to their company. It’s more impactful to share something specific, like ROI or the percentage of YoY growth, he said.
+Example: “As a sales representative, I’m proud of closing the three biggest deals for my company last year, earning up to $1 million in revenue for the company and contributing to a 116-percent increase in business growth. I’ve since been assigned to three more major clients, showing that my manager now trusts me to secure our business’ most important deals. Achieving such a big win for the company while earning the respect of my teammates has been the highlight of my career.”   
+ 
+While this question gives candidates a chance to highlight their best attributes, answers should still be grounded in bringing value to the employer. Candidates who ace this question talk about their strengths and how these will enable them to make an immediate impact at the company they’re applying to. 
+Example: “In my current role, I’ve developed a knack for solving complex challenges and making processes as efficient as possible. For example, I oversaw and reorganized workflows for our logistics team, reducing the time it took to complete an order by 60 percent and doubling our production numbers as a result. I will bring this same drive for optimizing processes to your company and look forward to applying these skills in a new operations manager role.”   
+ 
+Many employers value resiliency and adaptability, especially in ever-changing environments and industries. When responding to this question, think of a situation where you faced pressure from deadlines, difficult projects or other challenging scenarios and how you navigated the situation using a positive mindset.
+Example: “During busy times, I like to talk things over with my manager. For example, when I had several major projects on my plate, I met with my manager and asked him what projects I should prioritize and what timelines to establish. I then organized my schedule accordingly and completed each project by its corresponding deadline. Maintaining open lines of communication really helps me calm down and understand how to structure my days when I have a heavy workload.”     
+ 
+This is an opportunity for candidates to emphasize what management style they prefer. However, this is not a space for candidates to complain about bad managers they’ve had in the past. Be clear about what behaviors you welcome from managers while remaining professional when talking about managers who have fallen short of expectations.
+Example: “I really appreciate managers who remain available for questions, but also know when to let employees solve problems on their own. For example, my current manager lets me schedule quiet time to focus on my work, but I know I can reach out to her via Slack with questions or bring up other issues in our weekly one-on-ones. I had a past manager who was very kind and resourceful, but sometimes they would get a little too hands-on and prevent our team from experimenting with new approaches.”   
+ 
+Companies may ask this question to reaffirm that a candidate is a good fit for the position and to make sure the candidate isn’t simply running away from a less-than-ideal situation. Even if you are ready to leave your job, be sure to place a positive spin on your answer and reaffirm what’s drawing you to apply for a role. 
+Example: “While I owe a lot of my professional growth to my current team, I feel I’ve accomplished everything I’ve wanted to in my role and want to take the next step in expanding my skill set and experience as a software engineer, and I don’t think my current employer can offer me this. I was really impressed by the career development plan you’ve laid out for your position, so I feel your company is a place where I can continue down the engineering path I’m passionate about.”   
+ 
+Rarely do things go according to plan in any position, so employers want to know how candidates deal with adversity and how they adjust on the fly. The formula for answering this question should include a summary of the problem, what actions a candidate took and how their actions led to a resolution. 
+Example: “In my current role as a marketing manager, I discovered sales reps weren’t using our marketing team’s branding guidelines to describe a new product. To bridge this disconnect, I arranged a joint meeting between our marketing and sales teams to ensure everyone was on the same page. As a result, we agreed to hold these joint meetings once a month, and our customer conversions rose by 40 percent since leads were receiving clear and consistent information about the product.”  
+ 
+Employers want to make sure candidates have thought through their decisions and aren’t just randomly applying to jobs. This is also a chance to point out what you like about the company and how you see yourself seamlessly sliding into the company culture. Be sure to draw these connections in your response. 
+Example: “I was really impressed with how your company culture encourages cross-team collaboration. As an engineer, I would be eager to work with members on the product and marketing teams to better understand your company’s technology and how it benefits your customers. I also saw you recently expanded into the solar energy sector with your latest product, and I feel energized at the thought of building products that leave a positive impact on people and the environment.”  
+ 
+No matter what tough interview questions come up, these tips from recruiters will give you the tools to approach your next interview with confidence and ease.
+ 
+When asked what ways people can prepare for difficult interviews ahead of time, Miller stressed the importance of evaluating your own strong qualities before having the hiring conversation.
+“People need to understand their own backgrounds before they get on a call with a hiring manager,” he said. “Think about your accomplishments.”
+It can be tempting to talk about big-picture progress, but highlighting your specific efforts can demonstrate how you’d be an asset to the team. “Sometimes you want to be like, ‘my team, my company,’” Miller said. “But what can you do without your team and company? Explain the accomplishments you own as an individual.”
+More Interview AdviceAnswering ‘How Would You Describe Yourself?’ 5 Tips and Examples.
+ 
+It’s likely that you’ll be asked to talk about your weaknesses during the interview — Miller hates this question, but recognizes that it’s one most people will encounter. Often the best way to counter that question is to turn your weaknesses into strengths, or at least chances for growth, he said. 
+“That question is a double-edged sword,” Miller said. “You need to show that your weaknesses are things that you need to improve on, but that they aren’t going to affect your chances of getting the opportunity.”
+For example, if you tend to be overly detail-focused and independent when working on a project, you can talk about the ways you’re learning to share your ideas and accept feedback from others in order to come up with stronger solutions. Be honest about what areas you need to improve upon, but don’t forget to describe exactly how you plan to carry through on that improvement.
+ 
+When you’re faced with a difficult question, your instinct might be to rush and fill in the silence — but that can lead to a superficial answer. Taking the time to pause and gather your thoughts before answering a difficult question may feel awkward, but will show the interviewer that you’re being intentional.
+“I think it’s always OK to tell your interviewer, ‘is it alright if I have a minute to think about that?’ rather than panicking and starting an answer you really don’t have the words for,” Symonds said. “It will definitely make you look better than just diving in and giving an aimless answer.”
+ 
+Preparing detailed questions is beneficial in two ways: It’ll help you figure out if you actually want to work for an employer and it’ll show that you have a genuine interest in the position, Symonds said. Find out about the company retention rate — are people sticking around? If you’re focused on growth, ask what training they offer or what the career path looks like for this role. Ask about the challenges your team is facing or what you’ll be expected to accomplish in the first six months. These questions will “give you a sense of how a company invests in its people,” Symonds said.
+Keep the interview in perspective and know that an interview goes both ways. Not all interviews will go perfectly, and if that’s the case, then it’s just more information for you to use in your decision. “If you’re not feeling super positive [after] coming out of it, sometimes it’s not even about you, it’s about the company,” Miller said. “It might not be the right fit.”
+ 
+If an interview didn’t go as you’d hoped, that doesn’t mean you’ve run out of chances to make your case. “If a candidate really feels bad about an interview, what I suggest is writing a really good thank you letter that reiterates why they’re a strong candidate, and how they’re excited to move forward,” Miller said.
+Plus, a strong follow-up conversation can give you an added opportunity to share things that might have been missed in person and to further display your interest in the company, Miller said. A follow-up note can be the secret key to ensuring managers feel more confident in hiring you.
+ 
+What does networking have to do with answering hard interview questions? Tackling a daunting interview is much easier when you aren’t starting from square one. Relying on your professional connections for introductions and referrals establishes credibility with the hiring manager. It lays the groundwork so that you can better handle those challenging questions.
+“Knowing people and building relationships with people so that they will want to help you is part of the interview process as well,” Symonds said. “It always helps if you know somebody that can speak highly of you.”
+But what if you’re brand new to the tech scene, and don’t have connections to people at the companies or startups you want to join? Regardless of where you are in your career, you likely already have a network of people to help you along, Symonds said. If you don’t have a robust network yet, start by sending emails to people you admire and ask them about how you could break into the tech industry. 
+“I spent a lot of time in college building my network,” Symonds said. “You’re never too young to start building connections, going to workshops and conferences, and introducing yourself.”
+ 
+Some examples of tough interview questions include, “Tell me about yourself,” “What’s your biggest weakness?” and “Why should we hire you?” 
+
+--- Interview Tips ---
+Content from https://ph.jobstreet.com/career-advice/article/how-to-answer-hard-interview-questions-tips-and-samples
+Applying for a job could be a time-consuming and nerve-wracking experience. Creating an effective resumee that sets you apart from other job seekers is a challenging task. You also need to prepare for the next steps.  
+These may include tests of your technical knowledge and other skills the company wants in a job seeker. Interviews are also part of the process. Interviews are also a part of the process. 
+Preparing for an interview is important. How you do it will make or break your job chances. You also need to learn how to answer tough interview questions. When you respond with confidence and provide great answers, you're more likely to impress the interviewer. This helps you advance to the next stage of the hiring process. 
+Explore some hard interview questions and answers in this article. We'll cover the following:
+Many think hard interview questions are those that measure your technical knowledge. While these are difficult to answer, they're easier to prepare for. Suppose you're a fresh graduate applying for a programming job.  
+You've studied computers or earned certificates. So, questions about programming languages and tools should be easy for you. 
+The toughest interview questions assess your values, attitudes, and self-awareness. When you face these questions, you must be creative. You must also be analytical and reflective in your responses. It's also important to understand the underlying intentions behind the questions. 
+For instance, an interviewer may ask about a time when you faced a difficult situation at work. This helps them assess your problem-solving and decision-making skills. They want to see if you can handle pressure and make smart choices in challenging scenarios. While there's no wrong answer, it's best to respond in a way that highlights the skills mentioned. 
+Below are several of the most common hard questions with answers that will help you ace them. Use the sample answers to prepare your own based on your skills and experience. 
+This question aims to assess your values and attitude toward work. It also helps gauge your ability to choose accomplishments that matter to you. Your answer gives the interviewer an idea of your career goals and priorities. 
+Choose an achievement you're proud of. It should show abilities relevant to the job you're applying for. Describe what the achievement was, how you accomplished it, and why it's important to you. Here's how someone applying for a computer programming position might respond:  
+"I consider getting the Employee of the Year award at my last job to be my top achievement so far. I led a team of five. We updated our outdated, inefficient inventory system. This led to the improvement. My team and I were able to hit our targets before the deadline. The new system decreased the number of errors by 20% and returns by 30%. 
+This achievement is important to me because I'd been advocating for the implementation of a more efficient system for years. The recognition validated my efforts, and I felt that I made a significant contribution to the company." 
+This seems like a simple interview question at first glance. Interviewers often ask this in strength-based interviews to understand what you enjoy doing and where they excel. Your answer would reveal if your skills and personality are a good fit for the job. 
+When thinking of a response to this question, it's good to use examples. You can draw on ones from your extracurricular activities, work, or studies. Try to align your answer with the position you're interviewing for. Here's how someone applying for a healthcare position might answer: 
+"As a nurse, I'm motivated by the opportunity to help others. I like the idea of going home every day, knowing that I made a difference in someone's life. This sense of fulfillment and purpose drives me to excel in my work and provide the best possible care to those in need. 
+This motivation extends beyond my work. I enjoy volunteering on my days off to provide free healthcare to the nearby underserved community." 
+This job interview question aims to gauge your ability to act and solve problems. Taking initiative is a quality that many employers value in their employees. Jobseekers with this skill are likely proactive and resourceful. These traits are essential in the workplace. 
+When coming up with an answer to this question, think about times you had an idea for improving something at work ​￼​or college. It's important that what you share is something you acted upon and that had a positive outcome. Here's a sample answer if you're interviewing for a digital marketing role: 
+"Digital marketing is an ever-changing field, and keeping up with trends is key to staying competitive. I always allot time before I go to bed to read the latest industry blogs, catch up on relevant news, and research new marketing strategies. Last month, I proposed a new social media campaign to my manager that we've since begun executing. This initiative increased traffic on our website by nearly 20%." 
+Many find this a hard question to answer. A hiring manager or interviewer asks this to see how you take feedback. More specifically, they want to know if you're able to use constructive criticism to improve your performance. Your answer reveals if you're able to adapt and take responsibility for your actions. 
+Responding to this question requires self-awareness. Provide examples of critical feedback you received that you acted upon. Give your answer a positive spin by highlighting the steps you took to improve. Also, mention the outcome of the changes you made. Here's how a sample answer might look: 
+"As a content writer, the critical feedback I most often receive relates to the need for more concise and focused writing. My editor has pointed out that my sentences tend to be too long. This makes it difficult for readers to follow my thought process. 
+To address this, I've made a conscious effort to write shorter sentences and double-check my work before I submit it. I've also been paying attention to how I organize my paragraphs, making sure that each one focuses on one idea or topic. These changes have resulted in improved readability, and my editor has recognized my efforts." 
+This is a tricky question because it has many possible answers. You can also approach it in a variety of ways. You could talk about the ways you cope with stress in general. These may include exercising, ​￼​engaging in a karaoke session, or spending time with your family and friends. 
+While this response works, being specific can be a good idea. Answering within the context of your own experiences and the job you're applying for will make your answer more compelling. It will also allow you to show that you're right for the job. Provide an example where you overcame a stressful situation at work and didn't let it affect your performance. Here's a sample answer when applying for a leadership role: 
+"During a tough project at my old job, I faced a situation. A key deadline was near, and an unexpected problem came up. My stress levels were high, but I remained calm and focused on finding solutions. I organized a team meeting to discuss the issues and the best action. After considering our options, we devised a plan to address the problem and meet the deadline. 
+Through effective communication and teamwork, we were able to get the job done. And despite the stressful circumstances, I maintained my composure so as not to affect my performance and that of the team." 
+Here are tips that can help you deal with difficult behavior-based job interview questions: 
+Preparation will increase your confidence and help you give the best answers. To do this, you can conduct mock interviews with a friend and ask for feedback.  
+You may also record yourself answering interview questions and then review the recording to see how you did. In either case, take note of areas for improvement.  
+For example, if you find that you use fillers like ​￼​"ah" or "parang" too often, work on reducing this habit. 
+Keeping a cool head is crucial in interviews. It allows you to think more clearly and provide thoughtful answers. One of the best ways to do this is to come prepared. 
+Conduct research on the company and the position you're interviewing for. Practice answering interview questions you find difficult. The confidence that comes with knowing you're prepared for this stage of the hiring process can help you stay calm. 
+Breath control is an effective way to quell your stress response. It also helps promote a sense of calmness. Both are important when trying to communicate and showcase your qualifications effectively during an interview. Take a deep breath before answering tough interview questions. It will help you keep your composure by slowing your heart rate and lowering your blood pressure. 
+Deep breathing requires inhaling through your nose, filling your lungs with air for a few seconds. Your chest and belly should expand. Then, exhale slowly through your mouth or nose. 
+Confidence in an interview can help you impress the hiring manager. It may help you look more self-assured and capable. This will make your answers more persuasive. This can go a long way to improving your chances of landing the job. 
+Your choice of words helps distinguish between appearing confident or unsure in your interview. Use words that show certainty, even when answering difficult interview questions. These include "definitely" and "clearly." And instead of filling dead air​￼​ with "eh" and its variations, pause. Frequently using fillers may reduce credibility and show uncertainty in what you're saying. 
+Knowing how to answer tricky interview questions is key. It is essential for a successful job search. It will help you make a positive impression on the hiring manager or interviewer. It will also increase your chances of getting the job.  
+Prepare for hard or tricky questions by thinking of your responses and practicing them.  
+Learning to stay calm and answer confidently is also a great way to deal with these questions. By using the tips and insights in this article, you can put your best foot forward and ace your next interview. 
+Here are answers to a few FAQs about common challenging interview questions a hiring manager or interviewer may ask: 
+
+
+--- Interview Tips ---
+Content from https://www.foundit.com.ph/career-advice/common-interview-questions-and-answers/
+Elevate your career with foundit- where the best jobs meet your bright future.
+                    
+
+Register Now
+
+
+
+ 
+Job interviews can feel unpredictable, but certain questions come up almost every time. 
+
+
+Whether you're applying for your first role or switching careers, being ready for common interview questions can give you a real edge.
+
+
+ In this article, you’ll find frequently asked interview questions across industries, along with sample answers to help you respond clearly and confidently, no matter who’s sitting across the table.
+ 
+Job interviews can feel unpredictable, but certain questions come up almost every time. 
+Whether you're applying for your first role or switching careers, being ready for common interview questions can give you a real edge.
+ In this article, you’ll find frequently asked interview questions across industries, along with sample answers to help you respond clearly and confidently, no matter who’s sitting across the table.
+These are the questions you’re most likely to face at the start of any job interview. They help employers assess your experience, motivation, and fit for the role. Prepare concise, tailored responses that highlight your key strengths.
+This question usually opens the conversation. Your answer should be a quick professional summary — not your full life story. Focus on relevant roles, skills, and what you’re looking for next.
+Sample Answer:I’m currently working as a content marketing associate with three years of experience in B2B SaaS. In my current role, I manage blog strategy and SEO, which helped increase organic traffic by 60% over the past year. Before that, I interned with an edtech startup where I developed skills in content writing and analytics. I enjoy roles where I can combine creativity with measurable impact, which is why this content strategist role caught my attention.
+This is your chance to show you’ve done your research and understand the role. Connect your skills with what the company is looking for.
+Sample Answer:I’ve followed your company’s product growth over the last year, especially your push into new international markets. The role aligns well with my background in market research and go-to-market strategy. I’m excited by the chance to work in a fast-moving team and help shape how the brand scales in new regions.
+Focus on one or two strengths that are relevant to the role. Support your answer with an example or outcome.
+Sample Answer:One of my key strengths is structured thinking. For example, in my previous role, I led a process improvement project where I mapped out inefficiencies in onboarding and reduced average client activation time by 25%.
+Pick a recent, professional achievement that shows initiative, impact, or leadership. Use numbers or results if you can.
+Sample Answer:During my internship, I pitched and launched a customer success guide that reduced support tickets by 15% within two months. It started as a side project, but it ended up being adopted across the company’s support team.
+Related: What is Interview: Meaning, Types, Formats & Tips
+Behavioural interview questions are designed to understand how you’ve handled real work situations in the past. Employers want to know if your decision-making, communication, or conflict-resolution skills match their team culture. Use the STAR method (Situation, Task, Action, Result) to structure your answers clearly.
+Interviewers ask this to see how you perform under pressure. Choose a situation where you navigated a challenge or resolved a conflict constructively.
+Sample Answer:During a product launch, our design and tech teams disagreed on a feature’s implementation, causing delays. I called a joint meeting, aligned both sides on customer impact, and helped prioritise changes. As a result, we shipped on time with improved cross-team coordination.
+This tests your interpersonal skills and ability to remain professional. Show how you focused on the task and built collaboration despite differences.
+Sample Answer:A colleague often missed deadlines, which impacted our shared deliverables. I asked for a quick check-in, where I learned they were overwhelmed with other tasks. I helped reassign some responsibilities and proposed a shared tracking sheet. Things improved, and we delivered our project smoothly.
+This lets you demonstrate initiative, planning, and follow-through. Choose a goal that had a measurable impact or personal growth.
+Sample Answer:At the start of the year, I aimed to improve my SQL skills to support better data reporting. I completed an online course, practised weekly with internal datasets, and eventually built dashboards that our marketing team now uses to track campaign performance.
+This question isn’t to trip you up, it’s about accountability. Show that you can admit mistakes, learn, and fix issues responsibly.
+Sample Answer:I once shared an outdated file with a client by mistake, which caused confusion. I immediately owned the error, resent the correct version, and followed up with a clear summary. I then added a version-check step to our team workflow to avoid repeats.
+Employers value initiative. Pick a moment where you took extra steps to ensure success, improve a process, or support a teammate.
+Sample Answer:When our event planner left mid-project, I offered to step in temporarily. I handled vendor calls, budgets, and logistics to keep things on track. The event went well, and leadership appreciated the quick ownership. I also documented the process for future teams.
+Related: Top 10 Common Interview Questions and Answers
+HR interview questions are meant to assess your personality, work ethic, values, and long-term fit within the company. While they may seem generic, your answers can set the tone for your candidacy. Be honest, clear, and confident in your responses.
+This is a direct way for HR to evaluate your fit for the role. Show that you understand what the company needs — and explain how you meet those needs better than other candidates.
+Sample Answer:I bring the right mix of experience and attitude for this role. With a strong foundation in digital marketing and a proven ability to grow traffic by double digits, I can contribute from day one. I’m also highly adaptable — I’ve worked in both early-stage startups and structured environments, which means I can blend speed with process as needed.
+This question tests your ambition and how well the role aligns with your career plans. It’s okay to be aspirational — just make sure your answer shows commitment to learning and growth.
+Sample Answer:In five years, I hope to lead a small team and drive strategy in a high-impact marketing role. I want to deepen my leadership and product thinking skills along the way, and this role feels like the right foundation to start that journey.
+Be realistic and research market trends before you answer. It’s okay to share a range — just be sure to express flexibility and focus on the overall opportunity.
+Sample Answer:Based on my research and current market trends, I believe a fair range for this role would be between ₹8 to ₹10 lakhs per annum. That said, I’m open to discussion depending on the role’s scope and overall benefits.
+Employers want to know if you’ll stay productive under pressure. Use an example that shows planning, communication, or prioritisation helped you succeed.
+Sample Answer:When I’m under pressure, I try to break tasks down and tackle them one by one. For example, during our annual sales campaign, we were understaffed, and I had to manage two major projects at once. I created a clear task board, set daily priorities, and blocked focus time. Both projects were delivered on time — and with strong results.
+This is not a trick question. HR wants to understand how serious you are and whether they need to move quickly. Be honest but tactful.
+Sample Answer:Yes, I’m exploring a few roles that align with my skills and long-term goals. That said, I’m genuinely excited about this position and the company, which is why it’s a top priority for me.
+Related: Top 50 Basic Interview Questions and Answers 
+These questions test your self-awareness, honesty, and how you handle feedback or personal development. Interviewers want candidates who are confident in their abilities but also open to learning and improving.
+Pick a strength that is highly relevant to the job. Instead of giving a laundry list, focus on one trait and back it up with an example.
+Sample Answer:One of my strongest skills is communication. I’ve led content workshops for cross-functional teams and regularly turn complex product briefs into clear, actionable content. It’s helped align stakeholders and avoid last-minute chaos more than once.
+This isn’t a trap — as long as you show that you’re working on it. Avoid clichéd answers like “I’m a perfectionist” unless you can explain how you’re managing it.
+Sample Answer:Public speaking used to make me nervous. I realised it was affecting my ability to present ideas clearly. So, I joined a Toastmasters group and started taking low-stakes speaking opportunities. I’m much more confident now, especially in team settings and client demos.
+This is a good chance to highlight soft skills like reliability, collaboration, or work ethic — just make sure you can justify it with real examples.
+Sample Answer:Colleagues often tell me I’m dependable and easy to work with. I try to stay calm during chaos and communicate clearly even when things go wrong. During a high-pressure product launch, I kept the team aligned by proactively updating timelines and looping in stakeholders.
+Related: Mock Interview: Tips, Benefits, and Sample Questions
+Interviewers often want to know your long-term career direction, what drives you professionally, and how this role fits into your journey. It helps them assess both alignment and retention potential.
+This question is meant to check your ambition, planning, and whether the company can support your growth. Avoid being too vague — or too rigid.
+Sample Answer:In five years, I see myself in a product strategy role where I can shape features and roadmap decisions. I enjoy building cross-functional consensus, and I’d love to mentor younger team members too. This role feels like a solid step in that direction.
+This helps employers understand what energises you. Try to keep it job-relevant and true to your personality — not just money or titles.
+Sample Answer:I’m motivated by solving real user problems. Knowing that my work improves someone’s experience — whether it’s a smoother checkout or a clearer message — gives me energy. I also enjoy learning from my team and growing together.
+This is your chance to show that you’ve done your research. Speak to the company’s mission, recent projects, values, or leadership — and link it to your own goals.
+Sample Answer:I admire your focus on design-led thinking and sustainable product development. I recently read about your pilot initiative for remote onboarding, which aligns with my interest in human-centric product strategy. I’d love to contribute to that culture and vision.
+This isn’t just a personal question — it helps interviewers assess cultural fit and engagement. Your passion doesn’t have to be directly job-related, but it should highlight your curiosity, creativity, or drive.
+Sample Answer:I’m passionate about storytelling — especially through digital media. Outside of work, I run a newsletter where I break down consumer tech trends in simple terms. It keeps me curious and helps sharpen how I communicate at work too.
+In final interviews or wrap-up moments, interviewers want to understand your expectations, fit, and how seriously you’ve considered the opportunity. These questions might sound casual—but they’re often deal-breakers.
+Always say yes. This is your chance to show genuine interest, curiosity, and how you evaluate opportunities. Ask questions that reflect your values or goals.
+Sample Answer:Yes — I’d love to hear what success looks like in this role in the first 6 months. Also, how does the team give feedback and celebrate wins together?
+This is sensitive. Research industry benchmarks and be ready to share a realistic range. Be confident, but also flexible — and invite a discussion, not a negotiation.
+Sample Answer:Based on my research and the role’s scope, I’d expect something in the range of $4,500 to $5,000 monthly. That said, I’m open to discussing it in context of the overall benefits and growth opportunities.
+Be honest and clear — whether you’re serving notice or available right away. It helps the company with planning and onboarding.
+Sample Answer:I’d need to serve a 1-month notice at my current role, so I’d be ready to join by the 1st of next month. If needed earlier, I can try to negotiate an earlier release.
+This is a gentle nudge to wrap up. If there’s something important you missed — or a final pitch — this is your opening. Keep it short and relevant.
+Sample Answer:We’ve covered everything I hoped to — but I’d just like to say I’ve been really impressed with your team’s openness and clarity. I’m excited about the role and confident I can bring value from day one.
+Many candidates know what to say but struggle to organise their thoughts clearly. The STAR method helps you structure your answers so they sound confident and logical during an interview.
+Example:
+Question: Tell me about a time you solved a problem at work.Answer: In my previous role (Situation), customer complaints about delayed reports were rising (Task). I created a shared dashboard to track progress (Action), which reduced turnaround time by 30% (Result).
+Using this method helps you communicate clearly, stay on point, and show real results — exactly what interviewers look for.
+Even well-prepared candidates can slip up under pressure. Avoid these common interview mistakes to leave a positive impression:
+Interviewers notice confidence, clarity, and preparation. Practise key answers aloud, stay calm, and make every response show how you add value to the role.
+Build resume using templates
+Explore urgently hiring jobs
+Personalized jobs for you
+© Monster. All rights reserved.
