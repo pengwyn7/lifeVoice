@@ -47,38 +47,46 @@ tools = [web_search, get_current_datetime, calculator]
 def run_agent(user_input: str, persona_context: str, chat_history: list | None = None) -> str:
     """Run the agent with the given user input and persona context."""
     try:
-        # Check if tools are needed
-        tool_prompt = f"""{persona_context}
-
-User question: {user_input}
-
-Decide if you need to use any tools:
-- Use web_search if the question is about current events, recent facts, or something not in your knowledge
-- Use get_current_datetime if the question asks for current date/time
-- Use calculator if it's a simple math question
-- If no tools are needed, just answer directly
-
-If you need a tool, specify which one and the input. If multiple tools, list them. If none, just answer."""
-
-        # First, get decision from LLM
-        decision = query(tool_prompt, "You are a helpful assistant that decides if tools are needed.")
-        
-        # Check which tools are mentioned
+        # First, proactively check if we should use tools (simple heuristics + LLM)
         tool_results = []
-        for tool in tools:
-            if tool.name.lower() in decision.lower():
-                # Extract query for the tool if needed
-                if tool.name == "web_search":
-                    # Use the original user input as search query
-                    tool_result = web_search.invoke(user_input)
-                    tool_results.append(f"Web search results:\n{tool_result}")
-                elif tool.name == "get_current_datetime":
-                    tool_result = get_current_datetime.invoke({})
-                    tool_results.append(f"Current date/time: {tool_result}")
-                elif tool.name == "calculator":
-                    # Try to extract expression from user input
-                    tool_result = calculator.invoke(user_input)
-                    tool_results.append(f"Calculator result: {tool_result}")
+        user_input_lower = user_input.lower()
+        
+        # Simple heuristics to decide tool usage
+        use_web = False
+        use_time = False
+        use_calc = False
+        
+        # Time keywords
+        time_keywords = ["what time", "current time", "today's date", "what day", "current date"]
+        use_time = any(keyword in user_input_lower for keyword in time_keywords)
+        
+        # Calculator keywords
+        calc_keywords = ["calculate", "what is", "how much", "+", "-", "*", "/", "times", "plus", "minus", "divided by"]
+        use_calc = any(keyword in user_input_lower for keyword in calc_keywords)
+        
+        # Web search - if not time or calc, and it's a factual question
+        use_web = not (use_time or use_calc)
+        
+        # Use web search if it's a question about a person, event, etc.
+        web_indicators = ["who is", "what is", "where is", "when did", "why is", "how did", "news about", "trending", "latest", "current", "right now"]
+        if any(indicator in user_input_lower for indicator in web_indicators):
+            use_web = True
+        
+        # Execute tools
+        if use_web:
+            tool_result = web_search.invoke(user_input)
+            tool_results.append(f"Web search results:\n{tool_result}")
+        
+        if use_time:
+            tool_result = get_current_datetime.invoke({})
+            tool_results.append(f"Current date/time: {tool_result}")
+        
+        if use_calc:
+            try:
+                tool_result = calculator.invoke(user_input)
+                tool_results.append(f"Calculator result: {tool_result}")
+            except:
+                pass
         
         # Combine everything into final prompt
         final_prompt = f"""{persona_context}
