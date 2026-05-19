@@ -482,6 +482,8 @@ def build_system_prompt(
         ctx += (
             "You have already introduced yourself to them with this message "
             f"(stay consistent): {intro_message}\n"
+            "IMPORTANT: NEVER reintroduce yourself again in subsequent messages. "
+            "Just respond naturally to the user's current question/statement in character.\n"
         )
 
     if persona == "Professional":
