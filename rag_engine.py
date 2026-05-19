@@ -13,6 +13,14 @@ MAX_CONTEXT_CHARS = 2400
 SEARCH_POOL = 32
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
+
+def ensure_index_exists():
+    if not os.path.exists(INDEX_PATH) or not os.path.exists(LABELS_PATH) or not os.path.exists(DOCS_PATH):
+        from build_index import build_index
+        build_index()
+
+ensure_index_exists()
+
 index = faiss.read_index(INDEX_PATH)
 
 with open(LABELS_PATH, "r", encoding="utf-8") as f:
