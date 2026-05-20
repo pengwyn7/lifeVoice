@@ -116,7 +116,7 @@ lifeVoice/
 ### Models & APIs
 - **LLM**: Groq API (fast inference)
 - **Embeddings**: Sentence-BERT (`all-MiniLM-L6-v2`)
-- **Vector Database**: FAISS (Facebook AI Similarity Search)
+- **Vector Database**: FAISS
 
 ### Frameworks & Libraries
 - **UI**: Streamlit
@@ -172,14 +172,5 @@ python build_index.py
 - Groq for fast LLM inference
 - FAISS for vector search
 
-## License
 
-[Your License Here]
 
-## Contributing
-
-Feel free to open issues or submit pull requests!
-
----
-
-**Made with ❤️ and pixel art**
